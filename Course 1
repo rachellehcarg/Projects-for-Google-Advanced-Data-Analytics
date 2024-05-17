@@ -1,0 +1,73 @@
+**Project Proposal: Predictive Analysis for User Churn at Waze**
+
+**1. Project Overview:**
+The objective of this project is to develop a predictive model that anticipates user churn within the Waze app. By analyzing user data and identifying patterns indicative of potential churn, we aim to proactively address user dissatisfaction and enhance retention rates. The project will be executed in several phases, encompassing planning, analysis, construction, and execution, with the ultimate goal of delivering actionable insights to stakeholders.
+
+**2. Milestones:**
+
+**Milestone 1: Project Initiation and Data Collection (Plan)**
+- **Tasks:**
+  - Set up project infrastructure and communication channels.
+  - Obtain access to relevant datasets.
+  - Define data collection procedures.
+- **Objective:** Establish the groundwork for the project and acquire necessary resources.
+
+**Milestone 2: Exploratory Data Analysis (EDA) (Analyze)**
+- **Tasks:**
+  - Perform data cleaning and preprocessing.
+  - Conduct descriptive statistics and visualizations.
+  - Identify key features and potential correlations.
+- **Objective:** Gain insights into the characteristics and trends present in the dataset.
+
+**Milestone 3: Model Development (Construct)**
+- **Tasks:**
+  - Select appropriate machine learning algorithms.
+  - Split data into training and testing sets.
+  - Train and fine-tune predictive models.
+- **Objective:** Construct predictive models to forecast user churn based on analyzed data.
+
+**Milestone 4: Model Evaluation and Validation (Execute)**
+- **Tasks:**
+  - Assess model performance using relevant metrics.
+  - Validate model robustness through cross-validation.
+  - Address overfitting and bias issues.
+- **Objective:** Execute thorough evaluation of models to ensure reliability and effectiveness.
+
+**3. Relevant Stakeholders:**
+- **Data Team:**
+  - Harriet Hadzic (Director of Data Analysis)
+  - May Santner (Data Analysis Manager)
+  - Chidi Ga (Senior Data Analyst)
+- **Other Departments:**
+  - Sylvester Esperanza (Senior Project Manager)
+  - Emrick Larson (Finance and Administration Department Head)
+  - Ursula Sayo (Operations Manager)
+- **Executive Team:**
+  - Waze Executives
+
+**4. Project Tools and Technologies:**
+- **Python:** Utilized for data analysis, modeling, and visualization.
+- **Jupyter Notebooks:** For interactive data exploration and model prototyping.
+- **Pandas and NumPy:** Libraries for data manipulation and numerical computing.
+- **Scikit-learn:** Framework for machine learning model development and evaluation.
+- **Matplotlib and Seaborn:** Libraries for data visualization.
+
+**5. Communication Plan:**
+- Regular team meetings to discuss progress, roadblocks, and next steps.
+- Bi-weekly updates sent to stakeholders summarizing project status and key findings.
+- Dedicated presentation sessions scheduled for milestone completions to showcase insights and gather feedback.
+
+**6. Risks and Mitigation Strategies:**
+- **Data Quality Issues:** Conduct thorough data validation and preprocessing to mitigate inaccuracies.
+- **Model Overfitting:** Implement regularization techniques and cross-validation to prevent overfitting.
+- **Scope Creep:** Define clear project objectives and scope boundaries to avoid scope creep.
+
+**Conclusion:**
+By adhering to the outlined milestones and engaging stakeholders throughout the project lifecycle, we aim to construct a robust churn prediction model that empowers Waze to proactively address user churn, enhance user experience, and drive business growth.
+
+Looking forward to collaborating with the team and delivering impactful results.
+
+Sincerely,
+[Your Name]
+Data Analyst
+Waze
